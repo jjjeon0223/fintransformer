@@ -5,4 +5,7 @@ The algorithms used are:
 * Autoformer
 * PatchTST
 * Pathformer
+* Transformer
+* DQN
+* PPO
 and more.
